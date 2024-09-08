@@ -7,7 +7,6 @@ public class Array {
     public Array()
     {
         System.out.println(Arrays.toString(arr));
+        System.out.println("Hello Git");
     }
-
-
 }
